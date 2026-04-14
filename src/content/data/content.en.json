@@ -1,0 +1,164 @@
+{
+  "hero": {
+    "greeting": "Hello, I am",
+    "title": "Mykhailo Miahkyi",
+    "subtitle": "Researcher, educator, and technology professional",
+    "description": "This site brings together my scientific work, teaching path, and professional experience in one bilingual portfolio.",
+    "stats": [
+      { "label": "Research themes", "value": "4+" },
+      { "label": "Courses taught", "value": "8+" },
+      { "label": "Years in industry", "value": "9+" }
+    ]
+  },
+  "profile": {
+    "fullName": "Mykhailo Miahkyi",
+    "role": "Associate Professor / Researcher / Engineer",
+    "location": "Kyiv, Ukraine",
+    "email": "name@example.com",
+    "summary": "I work at the intersection of research, teaching, and professional practice, with a focus on turning complex ideas into useful systems and understandable learning experiences.",
+    "links": [
+      { "label": "ORCID", "href": "https://orcid.org/0000-0002-8038-8839" },
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/mykhailo-miahkyi-8140a614a/" },
+      { "label": "Google Scholar", "href": "https://scholar.google.com/" },
+      { "label": "GitHub", "href": "https://github.com/" }
+    ]
+  },
+  "science": {
+    "intro": "My scientific path combines research design, publication activity, and collaboration across academic communities.",
+    "orcid": "0000-0000-0000-0000",
+    "researchAreas": [
+      "Machine learning applications",
+      "Data analysis and modeling",
+      "Educational technologies",
+      "Decision support systems"
+    ],
+    "milestones": [
+      {
+        "period": "2018",
+        "title": "Started doctoral research",
+        "organization": "University / Institute",
+        "description": "Defined the main research scope and launched the first publication pipeline."
+      },
+      {
+        "period": "2021",
+        "title": "Major conference presentation",
+        "organization": "International Conference",
+        "description": "Presented findings to an international audience and established new academic partnerships."
+      },
+      {
+        "period": "2024",
+        "title": "Expanded interdisciplinary focus",
+        "organization": "Research Group",
+        "description": "Connected scientific results with teaching practice and applied industry use cases."
+      }
+    ],
+    "publications": [
+      {
+        "year": "2024",
+        "title": "Sample Paper Title for Your Portfolio",
+        "venue": "Journal or Conference Name",
+        "link": "https://doi.org/"
+      },
+      {
+        "year": "2023",
+        "title": "Another Research Article",
+        "venue": "Scopus / Web of Science indexed venue",
+        "link": "https://example.com/publication"
+      }
+    ]
+  },
+  "teaching": {
+    "intro": "Teaching is where I structure knowledge, mentor students, and translate difficult topics into accessible learning pathways.",
+    "highlights": [
+      { "label": "Teaching since", "value": "2017" },
+      { "label": "Student groups", "value": "Undergraduate / Graduate" },
+      { "label": "Formats", "value": "Lectures, labs, seminars" }
+    ],
+    "disciplines": [
+      { "name": "Data Analysis", "level": "Bachelor", "years": "4 years" },
+      { "name": "Machine Learning", "level": "Master", "years": "3 years" },
+      { "name": "Programming", "level": "Bachelor", "years": "6 years" }
+    ],
+    "milestones": [
+      {
+        "period": "2017",
+        "title": "First teaching appointment",
+        "organization": "University Department",
+        "description": "Began leading practical classes and supporting curriculum delivery."
+      },
+      {
+        "period": "2020",
+        "title": "Developed new course materials",
+        "organization": "Faculty Program",
+        "description": "Created updated assignments, assessment rubrics, and project-based learning blocks."
+      },
+      {
+        "period": "2025",
+        "title": "Expanded mentorship activity",
+        "organization": "Academic Program",
+        "description": "Supervised capstone projects and coached students on research writing and presentations."
+      }
+    ]
+  },
+  "professional": {
+    "intro": "My professional work complements my academic path through product delivery, team collaboration, and applied problem-solving.",
+    "experiences": [
+      {
+        "period": "2022 - Present",
+        "company": "Company Name",
+        "position": "Senior Specialist / Engineer",
+        "summary": "Led implementation of data-driven solutions and coordinated delivery across stakeholders.",
+        "achievements": [
+          "Built internal tools for faster reporting",
+          "Improved process quality and documentation",
+          "Supported cross-functional decision making"
+        ]
+      },
+      {
+        "period": "2019 - 2022",
+        "company": "Previous Company",
+        "position": "Analyst / Developer",
+        "summary": "Worked on product features, data workflows, and operational improvements.",
+        "achievements": [
+          "Automated repetitive tasks",
+          "Delivered dashboards for leadership",
+          "Collaborated with technical and business teams"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "category": "Technical",
+        "items": ["Python", "TypeScript", "SQL", "Data Visualization", "Git"]
+      },
+      {
+        "category": "Professional",
+        "items": ["Project coordination", "Mentoring", "Research communication", "Documentation"]
+      }
+    ]
+  },
+  "personal": {
+    "intro": "Beyond formal roles, I value hobbies and interests that keep me balanced, creative, and connected to new ideas.",
+    "hobbies": [
+      {
+        "title": "Reading",
+        "description": "I enjoy scientific literature, long-form essays, and books that connect technology with society."
+      },
+      {
+        "title": "Travel",
+        "description": "Exploring new places helps me recharge and broaden my cultural perspective."
+      },
+      {
+        "title": "Creative projects",
+        "description": "I like building side projects, visual experiments, and practical tools."
+      }
+    ],
+    "metrics": [
+      { "area": "Research", "score": 88 },
+      { "area": "Teaching", "score": 84 },
+      { "area": "Engineering", "score": 80 },
+      { "area": "Mentoring", "score": 78 },
+      { "area": "Creativity", "score": 74 }
+    ]
+  }
+}

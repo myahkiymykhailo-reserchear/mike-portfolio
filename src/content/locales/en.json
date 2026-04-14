@@ -1,0 +1,59 @@
+{
+  "siteTitle": "About Me",
+  "siteSubtitle": "Science, teaching, work, and the things that keep me curious.",
+  "nav": {
+    "home": "Home",
+    "science": "Scientific Path",
+    "teaching": "Teaching Career",
+    "professional": "Professional Work",
+    "personal": "Beyond Work",
+    "admin": "Admin"
+  },
+  "common": {
+    "language": "Language",
+    "overview": "Overview",
+    "highlights": "Highlights",
+    "timeline": "Timeline",
+    "publications": "Publications",
+    "disciplines": "Disciplines",
+    "experience": "Experience",
+    "skills": "Skills",
+    "contact": "Contact",
+    "researchAreas": "Research Areas",
+    "interestMap": "Interest Map",
+    "hobbies": "Hobbies",
+    "save": "Save to browser",
+    "reset": "Reset locale",
+    "export": "Export JSON",
+    "import": "Import JSON"
+  },
+  "home": {
+    "spotlight": "Current Spotlight",
+    "pagesTitle": "Explore the full profile",
+    "pagesDescription": "Each section has its own page so you can present academic, teaching, and professional materials clearly.",
+    "adminNote": "Because GitHub Pages is static, the admin area stores edits in your browser and supports JSON export/import for publishing updates."
+  },
+  "science": {
+    "orcid": "ORCID",
+    "selectedWork": "Selected Work"
+  },
+  "teaching": {
+    "teachingStory": "Teaching Story"
+  },
+  "professional": {
+    "careerJourney": "Career Journey"
+  },
+  "personal": {
+    "lifeOutside": "Life Outside Work"
+  },
+  "admin": {
+    "title": "Content Admin",
+    "description": "Edit bilingual content directly in the browser. Changes affect only this device until you export JSON and replace the source content in the repo.",
+    "activeLocale": "Active locale",
+    "editorLabel": "Locale content JSON",
+    "saved": "Saved successfully.",
+    "resetDone": "Locale reset to default values.",
+    "importDone": "JSON imported successfully.",
+    "importError": "Could not import JSON. Please check the file format."
+  }
+}
