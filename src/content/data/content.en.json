@@ -14,18 +14,18 @@
     "fullName": "Mykhailo Miahkyi",
     "role": "Associate Professor / Researcher / Engineer",
     "location": "Kyiv, Ukraine",
-    "email": "name@example.com",
+    "email": "myahkiymykhailo@gmail.com",
     "summary": "I work at the intersection of research, teaching, and professional practice, with a focus on turning complex ideas into useful systems and understandable learning experiences.",
     "links": [
       { "label": "ORCID", "href": "https://orcid.org/0000-0002-8038-8839" },
       { "label": "LinkedIn", "href": "https://www.linkedin.com/in/mykhailo-miahkyi-8140a614a/" },
-      { "label": "Google Scholar", "href": "https://scholar.google.com/" },
-      { "label": "GitHub", "href": "https://github.com/" }
+      { "label": "Google Scholar", "href": "https://scholar.google.com/citations?user=ncPPgD4AAAAJ&hl=en/" },
+      { "label": "GitHub", "href": "https://github.com/myahkiymykhailo-reserchear/" }
     ]
   },
   "science": {
     "intro": "My scientific path combines research design, publication activity, and collaboration across academic communities.",
-    "orcid": "0000-0000-0000-0000",
+    "orcid": "0000-0002-8038-8839",
     "researchAreas": [
       "Machine learning applications",
       "Data analysis and modeling",

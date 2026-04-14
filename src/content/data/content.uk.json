@@ -14,18 +14,18 @@
     "fullName": "Мягкий Михайло Юрійович",
     "role": "Асистент кафедри ІСТ / Дослідник / Інженер Програмного забезпечення",
     "location": "Київ, Україна",
-    "email": "name@example.com",
+    "email": "myahkiymykhailo@gmail.com",
     "summary": "Я працюю на перетині науки, викладання та професійної практики, зосереджуючись на перетворенні складних ідей на корисні системи та зрозумілі навчальні формати.",
     "links": [
       { "label": "ORCID", "href": "https://orcid.org/0000-0002-8038-8839" },
       { "label": "LinkedIn", "href": "https://www.linkedin.com/in/mykhailo-miahkyi-8140a614a/" },
-      { "label": "Google Scholar", "href": "https://scholar.google.com/" },
-      { "label": "GitHub", "href": "https://github.com/" }
+      { "label": "Google Scholar", "href": "https://scholar.google.com/citations?user=ncPPgD4AAAAJ&hl=en" },
+      { "label": "GitHub", "href": "https://github.com/myahkiymykhailo-reserchear/" }
     ]
   },
   "science": {
     "intro": "Мій науковий шлях поєднує дизайн досліджень, публікаційну активність і співпрацю в академічних спільнотах.",
-    "orcid": "0000-0000-0000-0000",
+    "orcid": "0000-0002-8038-8839",
     "researchAreas": [
       "Застосування машинного навчання",
       "Аналіз даних і моделювання",
