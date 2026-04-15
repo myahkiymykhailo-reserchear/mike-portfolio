@@ -96,8 +96,17 @@ export function HomePage({ content }: HomePageProps) {
             <Stack spacing={2}>
               <Typography>{content.profile.summary}</Typography>
               <Typography color="text.secondary">
-                {content.profile.location} • {content.profile.email}
+                {content.profile.location} • {content.profile.email} • {content.profile.telegram}
               </Typography>
+              <Stack direction="row" spacing={1} flexWrap="wrap" useFlexGap>
+                {content.profile.degrees.map((degree) => (
+                  <Chip
+                    key={`${degree.title}-${degree.period}`}
+                    label={`${degree.title} • ${degree.period}`}
+                    variant="outlined"
+                  />
+                ))}
+              </Stack>
             </Stack>
           </SectionCard>
         </Grid>

@@ -1,164 +1,340 @@
 {
   "hero": {
     "greeting": "Вітаю, я",
-    "title": "Мягкий Михайло Юрійович",
-    "subtitle": "Дослідник, викладач і технологічний фахівець",
-    "description": "Цей сайт поєднує мою наукову діяльність, викладацький шлях і професійний досвід в одному двомовному портфоліо.",
+    "title": "Михайло Мягкий",
+    "subtitle": "Data Engineer, Software Engineer, дослідник і практик академічного середовища",
+    "description": "Я створюю надійні data та software системи, працюю з backend і аналітичними пайплайнами та поєдную індустрійну практику з дослідженнями в інформаційних технологіях і прогнозуванні криптовалютних курсів.",
     "stats": [
-      { "label": "Напрями досліджень", "value": "4+" },
-      { "label": "Курсів викладав", "value": "8+" },
-      { "label": "Років в індустрії", "value": "9+" }
+      { "label": "Років в інженерії", "value": "9+" },
+      { "label": "Наукових публікацій", "value": "15" },
+      { "label": "Завершених ступенів", "value": "2" }
     ]
   },
   "profile": {
-    "fullName": "Мягкий Михайло Юрійович",
-    "role": "Асистент кафедри ІСТ / Дослідник / Інженер Програмного забезпечення",
+    "fullName": "Михайло Мягкий",
+    "role": "Data Engineer / Software Engineer",
     "location": "Київ, Україна",
-    "email": "myahkiymykhailo@gmail.com",
-    "summary": "Я працюю на перетині науки, викладання та професійної практики, зосереджуючись на перетворенні складних ідей на корисні системи та зрозумілі навчальні формати.",
+    "email": "mishamyagkiy3@gmail.com",
+    "telegram": "@Shark",
+    "summary": "Software Engineer і Data Engineer з більш ніж 9-річним досвідом у backend-розробці, обробці даних, інтеграціях, автоматизації, аналітичних пайплайнах, production support і client delivery. Комфортно працюю на перетині engineering, data та client-facing задач, маю практичний досвід із Python, Scala, Java, SQL, React, AWS, Databricks, Airflow і Docker.",
     "links": [
+      { "label": "Email", "href": "mailto:mishamyagkiy3@gmail.com" },
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/mykhailo-miahkyi-8140a614a" },
+      { "label": "Telegram", "href": "https://t.me/Shark" },
       { "label": "ORCID", "href": "https://orcid.org/0000-0002-8038-8839" },
-      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/mykhailo-miahkyi-8140a614a/" },
-      { "label": "Google Scholar", "href": "https://scholar.google.com/citations?user=ncPPgD4AAAAJ&hl=en" },
-      { "label": "GitHub", "href": "https://github.com/myahkiymykhailo-reserchear/" }
+      { "label": "Google Scholar", "href": "https://scholar.google.com/citations?user=ncPPgD4AAAAJ&hl=en/" }
+    ],
+    "degrees": [
+      {
+        "title": "Магістерський ступінь",
+        "institution": "НТУУ \"КПІ імені Ігоря Сікорського\"",
+        "period": "2020 - 2022",
+        "field": "Інформаційні системи та технології"
+      },
+      {
+        "title": "Бакалаврський ступінь",
+        "institution": "НТУУ \"КПІ імені Ігоря Сікорського\"",
+        "period": "2016 - 2020",
+        "field": "Інформаційні системи та технології"
+      }
+    ],
+    "languages": [
+      { "language": "Англійська", "level": "Intermediate / Upper-Intermediate" },
+      { "language": "Українська", "level": "Рідна" }
     ]
   },
   "science": {
-    "intro": "Мій науковий шлях поєднує дизайн досліджень, публікаційну активність і співпрацю в академічних спільнотах.",
+    "intro": "Мої дослідження зосереджені на інформаційних технологіях для аналізу впливу публікацій у соціальних мережах на курси криптовалют, поєднуючи моделі прогнозування, соціальні сигнали, поведінку інвесторів і аналіз експертного впливу.",
     "orcid": "0000-0002-8038-8839",
+    "phdNote": "Завершення PhD та захист заплановані на 2026 рік.",
+    "dissertation": {
+      "title": "Інформаційна технологія визначення впливу дописів в соціальних мережах на курси криптовалют",
+      "specialtyCode": "126",
+      "specialtyName": "Інформаційні системи та технології",
+      "branchCode": "12",
+      "branchName": "Інформаційні технології",
+      "status": "PhD-дисертація на фінальній стадії, очікуване завершення у 2026 році"
+    },
     "researchAreas": [
-      "Застосування машинного навчання",
-      "Аналіз даних і моделювання",
-      "Освітні технології",
-      "Системи підтримки ухвалення рішень"
+      "Прогнозування курсів криптовалют",
+      "Аналіз впливу експертів у соціальних мережах",
+      "Багатоагентні та інформаційні системи",
+      "Поведінка інвесторів і динамічне моделювання",
+      "Статистична обробка даних для контролю якості прогнозу"
     ],
     "milestones": [
       {
-        "period": "2018",
-        "title": "Початок докторського дослідження",
-        "organization": "Університет / Інститут",
-        "description": "Визначено головний напрям дослідження та запущено перший публікаційний цикл."
+        "period": "2022",
+        "title": "Початок основного публікаційного треку дисертації",
+        "organization": "Наукова програма КПІ",
+        "description": "Опубліковано перші результати з аналізу публікацій для прогнозування курсу криптовалют і формалізовано початковий системний підхід."
       },
       {
-        "period": "2021",
-        "title": "Виступ на важливій конференції",
-        "organization": "Міжнародна конференція",
-        "description": "Представлено результати міжнародній аудиторії та започатковано нові академічні партнерства."
+        "period": "2023",
+        "title": "Розширення моделі прогнозування ранжуванням експертів",
+        "organization": "Журнали та матеріали конференцій",
+        "description": "Розроблено й опубліковано методи прогнозування курсу криптовалют на основі ранжованих думок експертів і сигналів із соціальних мереж."
       },
       {
         "period": "2024",
-        "title": "Розширення міждисциплінарного фокусу",
-        "organization": "Дослідницька група",
-        "description": "Поєднано наукові результати з викладацькою практикою та прикладними індустріальними кейсами."
+        "title": "Розширення дослідження на спільноти та поведінку інвесторів",
+        "organization": "Рецензовані публікації",
+        "description": "Опубліковано дослідження про вплив спільнот у соціальних мережах і динамічну модель валютного обміну на основі поведінки інвесторів."
+      },
+      {
+        "period": "2025",
+        "title": "Завершення алгоритмічних результатів дисертації",
+        "organization": "Адаптивні системи автоматичного управління та матеріали конференцій",
+        "description": "Додано результати щодо ранжованих груп експертів, аналізу часових інтервалів і математичних моделей оцінювання експертних якостей."
+      },
+      {
+        "period": "2026",
+        "title": "Заплановане завершення PhD",
+        "organization": "НТУУ \"КПІ імені Ігоря Сікорського\"",
+        "description": "Підготовка фінального захисту дисертації за спеціальністю «Інформаційні системи та технології»."
       }
     ],
     "publications": [
       {
-        "year": "2024",
-        "title": "Приклад назви статті для портфоліо",
-        "venue": "Назва журналу або конференції",
-        "link": "https://doi.org/"
+        "year": "2022",
+        "title": "The task of analyzing publications to build a forecast for changes in cryptocurrency rates",
+        "venue": "Adaptive Systems of Automatic Control, Том 2, № 41",
+        "link": "https://asac.kpi.ua/article/view/269816"
       },
       {
         "year": "2023",
-        "title": "Ще одна наукова стаття",
-        "venue": "Видання, індексоване у Scopus / Web of Science",
-        "link": "https://example.com/publication"
+        "title": "Forecasting the cryptocurrency exchange rate based on the ranking of expert opinions",
+        "venue": "Innovative Technologies and Scientific Solutions for Industries, 4(26), 24-32",
+        "link": "https://doi.org/10.30837/ITSSI.2023.26.024"
+      },
+      {
+        "year": "2024",
+        "title": "Analysis of communities and groups in social networks as a significant factor of influence on cryptocurrency rates",
+        "venue": "Innovative Technologies and Scientific Solutions for Industries, 1(27), 18-25",
+        "link": "https://doi.org/10.30837/ITSSI.2024.27.018"
+      },
+      {
+        "year": "2024",
+        "title": "Dynamic model of currency exchange based on investor behavior",
+        "venue": "Information, Computing and Intelligent Systems, № 5, 137-149",
+        "link": "https://doi.org/10.20535/2786-8729.5.2024.316456"
+      },
+      {
+        "year": "2025",
+        "title": "Algorithm for forecasting cryptocurrency rate taking into account the influence of a ranked group of experts in social networks",
+        "venue": "Adaptive Systems of Automatic Control, Том 1, № 46, 145-160",
+        "link": "https://doi.org/10.20535/1560-8956.46.2025.323713"
+      },
+      {
+        "year": "2023",
+        "title": "The algorithm for predicting the cryptocurrency rate taking into account the influence of posts of a group of famous people in social networks",
+        "venue": "System Research and Information Technologies, № 2, 22-34, Scopus Q4",
+        "link": "https://doi.org/10.20535/SRIT.2308-8893.2023.2.02"
+      },
+      {
+        "year": "2024",
+        "title": "An analysis of the influence of famous people's posts on social networks on the cryptocurrency exchange rate",
+        "venue": "Bulletin of the Polish Academy of Sciences: Technical Sciences, Vol. 72(4), e150117",
+        "link": "https://doi.org/10.24425/bpasts.2024.150117"
+      },
+      {
+        "year": "2022",
+        "title": "Research of the influence of famous people's publications on cryptocurrency rates",
+        "venue": "Applied Systems and Technologies in the Information Society, Київ",
+        "link": "https://fit.knu.ua/wp-content/uploads/2022/10/ASTIS-2022.pdf"
+      },
+      {
+        "year": "2023",
+        "title": "Information system for analyzing the influence of expert publications on cryptocurrency exchange rates based on a multi-agent approach",
+        "venue": "SoftTech-2023, Київ, 67-71",
+        "link": "https://softtech.kpi.ua/proceedings2023.pdf"
+      },
+      {
+        "year": "2023",
+        "title": "Research of the influence of expert group posts on cryptocurrency rates",
+        "venue": "XIX International Scientific Conference named after Mykhailo Kravchuk, Київ, 156-157",
+        "link": "https://mathconf.kpi.ua/kravchuk2023.pdf"
+      },
+      {
+        "year": "2023",
+        "title": "Communities and groups in social networks as a factor influencing cryptocurrency rates",
+        "venue": "SoftTech-2023, Київ, 232-237",
+        "link": "https://softtech.kpi.ua/proceedings2023_2.pdf"
+      },
+      {
+        "year": "2024",
+        "title": "Specifics of statistical data processing for quality control of currency rate forecasting",
+        "venue": "Innovations in Scientific Research: World Experience and Realities, Рига, 87-90",
+        "link": "https://isg-konf.com/innovations2024.pdf"
+      },
+      {
+        "year": "2024",
+        "title": "Cold start problem in cryptocurrency prediction algorithm",
+        "venue": "Problems and Prospects of Global Business Development, Bilbao, 131-138",
+        "link": "https://conferencepublication.com/psgbd2024.pdf"
+      },
+      {
+        "year": "2025",
+        "title": "Determination of time intervals for analyzing the impact of expert publications on cryptocurrency rates",
+        "venue": "Global Trends in the Development of Information Technology and Science, Stockholm, 55-57",
+        "link": "https://gtits-conference.org/proceedings2025.pdf"
+      },
+      {
+        "year": "2025",
+        "title": "Mathematical model for assessing expert qualities",
+        "venue": "Infocom Advanced Solutions, Київ, 83-87",
+        "link": "https://infocom.kpi.ua/ias2025.pdf"
       }
     ]
   },
   "teaching": {
-    "intro": "Викладання для мене є простором, де я структурую знання, наставляю студентів і роблю складні теми доступними.",
+    "intro": "Я викладаю з 2021 року в КПІ, поєднуючи академічне викладання з активною індустріальною практикою в software та data engineering.",
     "highlights": [
-      { "label": "Викладаю з", "value": "2017" },
-      { "label": "Групи студентів", "value": "Бакалаврат / Магістратура" },
-      { "label": "Формати", "value": "Лекції, лабораторні, семінари" }
+      { "label": "Викладаю з", "value": "2021" },
+      { "label": "Факультети", "value": "Факультет математики КПІ • ФІОТ КПІ" },
+      { "label": "Основні дисципліни", "value": "Веброзробка • Проєктний менеджмент • Технологія розробки застосунків" }
     ],
     "disciplines": [
-      { "name": "Аналіз даних", "level": "Бакалавр", "years": "4 роки" },
-      { "name": "Машинне навчання", "level": "Магістр", "years": "3 роки" },
-      { "name": "Програмування", "level": "Бакалавр", "years": "6 років" }
+      { "name": "Веброзробка", "level": "Факультет математики КПІ", "years": "З 2021" },
+      { "name": "Проєктний менеджмент", "level": "ФІОТ КПІ", "years": "З 2023" },
+      { "name": "Технологія розробки застосунків", "level": "ФІОТ КПІ", "years": "З 2023" }
     ],
     "milestones": [
       {
-        "period": "2017",
-        "title": "Перше викладацьке призначення",
-        "organization": "Кафедра університету",
-        "description": "Почав вести практичні заняття та підтримувати викладання дисциплін."
+        "period": "2021",
+        "title": "Початок викладання на Факультеті математики",
+        "organization": "КПІ, Факультет математики",
+        "description": "Почав викладати веброзробку, поєднуючи практичний інженерний досвід з аудиторною роботою."
       },
       {
-        "period": "2020",
-        "title": "Розроблено нові матеріали курсу",
-        "organization": "Освітня програма факультету",
-        "description": "Створено оновлені завдання, рубрики оцінювання та блоки проєктного навчання."
+        "period": "2023",
+        "title": "Розширення викладання на ФІОТ КПІ",
+        "organization": "Факультет інформатики та обчислювальної техніки, КПІ",
+        "description": "Почав викладати дисципліни «Проєктний менеджмент» і «Технологія розробки застосунків»."
       },
       {
-        "period": "2025",
-        "title": "Розширення менторської діяльності",
-        "organization": "Академічна програма",
-        "description": "Керував дипломними проєктами та допомагав студентам у науковому письмі й презентаціях."
+        "period": "2022 - 2026",
+        "title": "Поєднання досліджень і викладання",
+        "organization": "Академічна та наукова діяльність у КПІ",
+        "description": "Поєдную PhD-дослідження, індустрійну практику та викладання, щоб наповнювати курси актуальними прикладами й сучасними технологіями."
       }
     ]
   },
   "professional": {
-    "intro": "Мій професійний досвід доповнює академічний шлях через продуктову роботу, командну взаємодію та прикладне розв'язання задач.",
+    "intro": "Мій професійний шлях охоплює backend engineering, інтеграції, обробку даних, аналітичні пайплайни, автоматизацію та delivery support у продуктових і client-facing середовищах.",
     "experiences": [
       {
-        "period": "2022 - дотепер",
-        "company": "Назва компанії",
-        "position": "Старший фахівець / Інженер",
-        "summary": "Очолював впровадження рішень на основі даних та координував реалізацію між зацікавленими сторонами.",
+        "period": "Apr 2025 - Apr 2026",
+        "company": "Feedzai",
+        "position": "Data Engineer",
+        "summary": "Працював над client-facing data engineering і delivery задачами після придбання Demyst.",
         "achievements": [
-          "Створив внутрішні інструменти для швидшої звітності",
-          "Покращив якість процесів і документації",
-          "Підтримував ухвалення рішень міжфункціональними командами"
+          "Розробляв і підтримував data pipelines для client delivery та analytics workflows",
+          "Створював і підтримував jobs для structured і semi-structured data",
+          "Працював з AWS, Airflow, Spark, SQL і Jupyter-based workflows",
+          "Виконував data analysis, validation, issue investigation та reporting",
+          "Підтримував production troubleshooting і моніторинг якості доставки"
         ]
       },
       {
-        "period": "2019 - 2022",
-        "company": "Попередня компанія",
-        "position": "Аналітик / Розробник",
-        "summary": "Працював над продуктовими функціями, потоками даних та операційними покращеннями.",
+        "period": "Sep 2022 - Apr 2025",
+        "company": "Demyst",
+        "position": "Software Engineer",
+        "summary": "Працював у backend, frontend, connectors і client delivery в data-intensive середовищі, зосередженому на агрегації даних із багатьох джерел.",
         "achievements": [
-          "Автоматизував рутинні задачі",
-          "Створював дашборди для керівництва",
-          "Співпрацював із технічними та бізнес-командами"
+          "Розробляв custom connectors та integration logic для зовнішніх систем і API",
+          "Підтримував backend services і platform-related features",
+          "Робив frontend updates і долучався до нового platform development",
+          "Виконував data processing, issue analysis, reporting і delivery tracking",
+          "Допомагав з onboarding та mentoring нових колег"
+        ]
+      },
+      {
+        "period": "May 2021 - Sep 2021",
+        "company": "mediastream.ag",
+        "position": "Software Engineer",
+        "summary": "Працював над інтеграцією нових продуктів у наявну production platform.",
+        "achievements": [
+          "Підтримував наявну функціональність платформи",
+          "Розробляв adapters та integration components для нових клієнтів",
+          "Брав участь у product integration і platform enhancement tasks"
+        ]
+      },
+      {
+        "period": "Mar 2021 - Sep 2022",
+        "company": "Realtybundles Ltd",
+        "position": "Software Engineer / Automation Tester / Data Engineer",
+        "summary": "Працював над розробкою ПЗ, автоматизацією, тестуванням і data-related задачами в кількох workflow.",
+        "achievements": [
+          "Створював automation tools і bots для тестування поведінки платформи",
+          "Імітував manual user actions і валідував platform flows",
+          "Працював над збиранням і обробкою даних",
+          "Підтримував cloud-based і data-oriented workflows"
+        ]
+      },
+      {
+        "period": "Jun 2016 - Sep 2022",
+        "company": "CyberSystem Group",
+        "position": "Software Engineer / Data Engineer / Team Lead",
+        "summary": "Працював над e-commerce системами, ERP/CMS рішеннями та knowledge-oriented платформами у frontend, backend, БД та інтеграціях.",
+        "achievements": [
+          "Розробляв frontend і backend функціональність веб-систем",
+          "Створював і підтримував e-commerce платформи з custom business logic",
+          "Робив ERP і CMS модулі та внутрішні системи",
+          "Працював із базами даних, API, тестуванням, bug fixing і support",
+          "Створював окремі частини систем з нуля та ділився технічними знаннями"
         ]
       }
     ],
     "skills": [
       {
-        "category": "Технічні",
-        "items": ["Python", "TypeScript", "SQL", "Візуалізація даних", "Git"]
+        "category": "Мови програмування",
+        "items": ["Python", "Scala", "Java", "SQL", "JavaScript", "TypeScript"]
       },
       {
-        "category": "Професійні",
-        "items": ["Координація проєктів", "Менторство", "Наукова комунікація", "Документація"]
+        "category": "Data Engineering & Analytics",
+        "items": ["Airflow", "Databricks", "Spark", "ETL/ELT", "Data pipelines", "Jupyter", "Reporting", "Parquet"]
+      },
+      {
+        "category": "Cloud & DevOps",
+        "items": ["AWS", "Docker", "Jenkins", "GitHub Actions", "Git"]
+      },
+      {
+        "category": "Backend & Integration",
+        "items": ["Spring", "Node.js", "Express", "REST API integrations", "Connectors", "Authentication flows"]
+      },
+      {
+        "category": "Frontend",
+        "items": ["React", "Angular", "HTML", "CSS", "SCSS", "Bootstrap", "Angular Material"]
+      },
+      {
+        "category": "Бази даних та інструменти",
+        "items": ["PostgreSQL", "MySQL", "MongoDB", "Postman", "IntelliJ IDEA", "PyCharm", "WebStorm", "VSCode", "Cursor", "Eclipse", "Maven"]
       }
     ]
   },
   "personal": {
-    "intro": "Поза формальними ролями я ціную хобі та інтереси, які допомагають зберігати баланс, креативність і відкритість до нових ідей.",
+    "intro": "Поза безпосередньою delivery-роботою мені подобається створювати практичні інструменти, досліджувати складні задачі та поєднувати інженерну цікавість із довгостроковими академічними цілями.",
     "hobbies": [
       {
-        "title": "Читання",
-        "description": "Мені подобаються наукові тексти, аналітичні есе та книги на перетині технологій і суспільства."
+        "title": "Дослідження та письмо",
+        "description": "Мені подобається перетворювати технічні ідеї на структуровані статті, експерименти та результати рівня дисертації."
       },
       {
-        "title": "Подорожі",
-        "description": "Нові місця допомагають мені відновлюватися та розширювати культурну перспективу."
+        "title": "Інженерні side projects",
+        "description": "Люблю створювати невеликі системи, інтеграції та експерименти, які покращують і продуктові, і технічні навички."
       },
       {
-        "title": "Творчі проєкти",
-        "description": "Люблю створювати сайд-проєкти, візуальні експерименти та практичні інструменти."
+        "title": "Безперервне навчання",
+        "description": "Регулярно поглиблюю навички в data engineering, software architecture, analytics і сучасних інструментах розробки."
       }
     ],
     "metrics": [
-      { "area": "Наука", "score": 88 },
-      { "area": "Викладання", "score": 84 },
-      { "area": "Інженерія", "score": 80 },
-      { "area": "Менторство", "score": 78 },
-      { "area": "Креативність", "score": 74 }
+      { "area": "Data Engineering", "score": 90 },
+      { "area": "Software Engineering", "score": 88 },
+      { "area": "Наука", "score": 86 },
+      { "area": "Менторство", "score": 77 },
+      { "area": "Delivery", "score": 85 }
     ]
   }
 }

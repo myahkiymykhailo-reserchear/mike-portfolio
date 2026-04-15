@@ -18,6 +18,11 @@
     "disciplines": "Disciplines",
     "experience": "Experience",
     "skills": "Skills",
+    "education": "Education",
+    "degrees": "Degrees",
+    "languages": "Languages",
+    "dissertation": "Dissertation",
+    "technologies": "Technologies",
     "contact": "Contact",
     "researchAreas": "Research Areas",
     "interestMap": "Interest Map",
@@ -35,7 +40,8 @@
   },
   "science": {
     "orcid": "ORCID",
-    "selectedWork": "Selected Work"
+    "selectedWork": "Selected Work",
+    "phdTrack": "PhD Track"
   },
   "teaching": {
     "teachingStory": "Teaching Story"

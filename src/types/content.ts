@@ -1,4 +1,4 @@
-export type Locale = "en" | "uk";
+export type Locale = "en" | "ua";
 
 export interface HeroStats {
   label: string;
@@ -18,13 +18,37 @@ export interface ContactLink {
   href: string;
 }
 
+export interface Degree {
+  title: string;
+  institution: string;
+  period: string;
+  field?: string;
+}
+
+export interface LanguageSkill {
+  language: string;
+  level: string;
+}
+
+export interface DissertationInfo {
+  title: string;
+  specialtyCode: string;
+  specialtyName: string;
+  branchCode: string;
+  branchName: string;
+  status: string;
+}
+
 export interface ProfileContent {
   fullName: string;
   role: string;
   location: string;
   email: string;
+  telegram: string;
   summary: string;
   links: ContactLink[];
+  degrees: Degree[];
+  languages: LanguageSkill[];
 }
 
 export interface Milestone {
@@ -81,6 +105,8 @@ export interface SiteContent {
   science: {
     intro: string;
     orcid: string;
+    phdNote: string;
+    dissertation: DissertationInfo;
     researchAreas: string[];
     milestones: Milestone[];
     publications: Publication[];

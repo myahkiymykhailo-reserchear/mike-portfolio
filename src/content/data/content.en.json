@@ -2,163 +2,339 @@
   "hero": {
     "greeting": "Hello, I am",
     "title": "Mykhailo Miahkyi",
-    "subtitle": "Researcher, educator, and technology professional",
-    "description": "This site brings together my scientific work, teaching path, and professional experience in one bilingual portfolio.",
+    "subtitle": "Data Engineer, Software Engineer, researcher, and academic practitioner",
+    "description": "I build reliable data and software systems, work across backend and analytics pipelines, and connect industry practice with research in information technologies and cryptocurrency forecasting.",
     "stats": [
-      { "label": "Research themes", "value": "4+" },
-      { "label": "Courses taught", "value": "8+" },
-      { "label": "Years in industry", "value": "9+" }
+      { "label": "Years in engineering", "value": "9+" },
+      { "label": "Research publications", "value": "15" },
+      { "label": "Degrees completed", "value": "2" }
     ]
   },
   "profile": {
     "fullName": "Mykhailo Miahkyi",
-    "role": "Associate Professor / Researcher / Engineer",
+    "role": "Data Engineer / Software Engineer",
     "location": "Kyiv, Ukraine",
-    "email": "myahkiymykhailo@gmail.com",
-    "summary": "I work at the intersection of research, teaching, and professional practice, with a focus on turning complex ideas into useful systems and understandable learning experiences.",
+    "email": "mishamyagkiy3@gmail.com",
+    "telegram": "@Shark",
+    "summary": "Software Engineer and Data Engineer with more than 9 years of experience across backend development, data processing, integrations, automation, analytics-oriented pipelines, production support, and client delivery. I work comfortably across engineering, data, and client-facing tasks, with hands-on experience in Python, Scala, Java, SQL, React, AWS, Databricks, Airflow, and Docker.",
     "links": [
+      { "label": "Email", "href": "mailto:mishamyagkiy3@gmail.com" },
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/mykhailo-miahkyi-8140a614a" },
+      { "label": "Telegram", "href": "https://t.me/Shark" },
       { "label": "ORCID", "href": "https://orcid.org/0000-0002-8038-8839" },
-      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/mykhailo-miahkyi-8140a614a/" },
-      { "label": "Google Scholar", "href": "https://scholar.google.com/citations?user=ncPPgD4AAAAJ&hl=en/" },
-      { "label": "GitHub", "href": "https://github.com/myahkiymykhailo-reserchear/" }
+      { "label": "Google Scholar", "href": "https://scholar.google.com/citations?user=ncPPgD4AAAAJ&hl=en/" }
+    ],
+    "degrees": [
+      {
+        "title": "Master's Degree",
+        "institution": "NTUU \"Igor Sikorsky Kyiv Polytechnic Institute\"",
+        "period": "2020 - 2022",
+        "field": "Information Systems and Technologies"
+      },
+      {
+        "title": "Bachelor's Degree",
+        "institution": "NTUU \"Igor Sikorsky Kyiv Polytechnic Institute\"",
+        "period": "2016 - 2020",
+        "field": "Information Systems and Technologies"
+      }
+    ],
+    "languages": [
+      { "language": "English", "level": "Intermediate / Upper-Intermediate" },
+      { "language": "Ukrainian", "level": "Native" }
     ]
   },
   "science": {
-    "intro": "My scientific path combines research design, publication activity, and collaboration across academic communities.",
+    "intro": "My research focuses on information technologies for analyzing the influence of social network publications on cryptocurrency rates, combining forecasting models, social signals, investor behavior, and expert-driven analysis.",
     "orcid": "0000-0002-8038-8839",
+    "phdNote": "PhD graduation is planned for 2026.",
+    "dissertation": {
+      "title": "Information technology for determining the influence of social network posts on cryptocurrency exchange rates",
+      "specialtyCode": "126",
+      "specialtyName": "Information Systems and Technologies",
+      "branchCode": "12",
+      "branchName": "Information Technologies",
+      "status": "PhD dissertation in final stage, expected graduation in 2026"
+    },
     "researchAreas": [
-      "Machine learning applications",
-      "Data analysis and modeling",
-      "Educational technologies",
-      "Decision support systems"
+      "Cryptocurrency exchange rate forecasting",
+      "Analysis of expert influence in social networks",
+      "Multi-agent and information systems",
+      "Investor behavior and dynamic modeling",
+      "Statistical processing for forecast quality control"
     ],
     "milestones": [
       {
-        "period": "2018",
-        "title": "Started doctoral research",
-        "organization": "University / Institute",
-        "description": "Defined the main research scope and launched the first publication pipeline."
+        "period": "2022",
+        "title": "Started the main dissertation publication track",
+        "organization": "KPI research program",
+        "description": "Published early results on analyzing publications for cryptocurrency rate forecasting and formalized the first system approach."
       },
       {
-        "period": "2021",
-        "title": "Major conference presentation",
-        "organization": "International Conference",
-        "description": "Presented findings to an international audience and established new academic partnerships."
+        "period": "2023",
+        "title": "Extended the forecasting model with expert ranking",
+        "organization": "Journal and conference publications",
+        "description": "Developed and published methods for cryptocurrency rate forecasting based on ranked expert opinions and social-network signals."
       },
       {
         "period": "2024",
-        "title": "Expanded interdisciplinary focus",
-        "organization": "Research Group",
-        "description": "Connected scientific results with teaching practice and applied industry use cases."
+        "title": "Expanded the research to communities and investor behavior",
+        "organization": "Peer-reviewed publications",
+        "description": "Published studies on community influence in social networks and a dynamic model of currency exchange based on investor behavior."
+      },
+      {
+        "period": "2025",
+        "title": "Finalized dissertation-oriented algorithmic contributions",
+        "organization": "Adaptive Systems of Automatic Control and conference proceedings",
+        "description": "Added work on ranked expert groups, time interval analysis, and mathematical models for assessing expert qualities."
+      },
+      {
+        "period": "2026",
+        "title": "Planned PhD graduation",
+        "organization": "NTUU \"Igor Sikorsky Kyiv Polytechnic Institute\"",
+        "description": "Preparing the final dissertation defense in Information Systems and Technologies."
       }
     ],
     "publications": [
       {
-        "year": "2024",
-        "title": "Sample Paper Title for Your Portfolio",
-        "venue": "Journal or Conference Name",
-        "link": "https://doi.org/"
+        "year": "2022",
+        "title": "The task of analyzing publications to build a forecast for changes in cryptocurrency rates",
+        "venue": "Adaptive Systems of Automatic Control, Vol. 2, No. 41",
+        "link": "https://asac.kpi.ua/article/view/269816"
       },
       {
         "year": "2023",
-        "title": "Another Research Article",
-        "venue": "Scopus / Web of Science indexed venue",
-        "link": "https://example.com/publication"
+        "title": "Forecasting the cryptocurrency exchange rate based on the ranking of expert opinions",
+        "venue": "Innovative Technologies and Scientific Solutions for Industries, 4(26), 24-32",
+        "link": "https://doi.org/10.30837/ITSSI.2023.26.024"
+      },
+      {
+        "year": "2024",
+        "title": "Analysis of communities and groups in social networks as a significant factor of influence on cryptocurrency rates",
+        "venue": "Innovative Technologies and Scientific Solutions for Industries, 1(27), 18-25",
+        "link": "https://doi.org/10.30837/ITSSI.2024.27.018"
+      },
+      {
+        "year": "2024",
+        "title": "Dynamic model of currency exchange based on investor behavior",
+        "venue": "Information, Computing and Intelligent Systems, No. 5, 137-149",
+        "link": "https://doi.org/10.20535/2786-8729.5.2024.316456"
+      },
+      {
+        "year": "2025",
+        "title": "Algorithm for forecasting cryptocurrency rate taking into account the influence of a ranked group of experts in social networks",
+        "venue": "Adaptive Systems of Automatic Control, Vol. 1, No. 46, 145-160",
+        "link": "https://doi.org/10.20535/1560-8956.46.2025.323713"
+      },
+      {
+        "year": "2023",
+        "title": "The algorithm for predicting the cryptocurrency rate taking into account the influence of posts of a group of famous people in social networks",
+        "venue": "System Research and Information Technologies, No. 2, 22-34, Scopus Q4",
+        "link": "https://doi.org/10.20535/SRIT.2308-8893.2023.2.02"
+      },
+      {
+        "year": "2024",
+        "title": "An analysis of the influence of famous people's posts on social networks on the cryptocurrency exchange rate",
+        "venue": "Bulletin of the Polish Academy of Sciences: Technical Sciences, Vol. 72(4), e150117",
+        "link": "https://doi.org/10.24425/bpasts.2024.150117"
+      },
+      {
+        "year": "2022",
+        "title": "Research of the influence of famous people's publications on cryptocurrency rates",
+        "venue": "Applied Systems and Technologies in the Information Society, Kyiv",
+        "link": "https://fit.knu.ua/wp-content/uploads/2022/10/ASTIS-2022.pdf"
+      },
+      {
+        "year": "2023",
+        "title": "Information system for analyzing the influence of expert publications on cryptocurrency exchange rates based on a multi-agent approach",
+        "venue": "SoftTech-2023, Kyiv, 67-71",
+        "link": "https://softtech.kpi.ua/proceedings2023.pdf"
+      },
+      {
+        "year": "2023",
+        "title": "Research of the influence of expert group posts on cryptocurrency rates",
+        "venue": "XIX International Scientific Conference named after Mykhailo Kravchuk, Kyiv, 156-157",
+        "link": "https://mathconf.kpi.ua/kravchuk2023.pdf"
+      },
+      {
+        "year": "2023",
+        "title": "Communities and groups in social networks as a factor influencing cryptocurrency rates",
+        "venue": "SoftTech-2023, Kyiv, 232-237",
+        "link": "https://softtech.kpi.ua/proceedings2023_2.pdf"
+      },
+      {
+        "year": "2024",
+        "title": "Specifics of statistical data processing for quality control of currency rate forecasting",
+        "venue": "Innovations in Scientific Research: World Experience and Realities, Riga, 87-90",
+        "link": "https://isg-konf.com/innovations2024.pdf"
+      },
+      {
+        "year": "2024",
+        "title": "Cold start problem in cryptocurrency prediction algorithm",
+        "venue": "Problems and Prospects of Global Business Development, Bilbao, 131-138",
+        "link": "https://conferencepublication.com/psgbd2024.pdf"
+      },
+      {
+        "year": "2025",
+        "title": "Determination of time intervals for analyzing the impact of expert publications on cryptocurrency rates",
+        "venue": "Global Trends in the Development of Information Technology and Science, Stockholm, 55-57",
+        "link": "https://gtits-conference.org/proceedings2025.pdf"
+      },
+      {
+        "year": "2025",
+        "title": "Mathematical model for assessing expert qualities",
+        "venue": "Infocom Advanced Solutions, Kyiv, 83-87",
+        "link": "https://infocom.kpi.ua/ias2025.pdf"
       }
     ]
   },
   "teaching": {
-    "intro": "Teaching is where I structure knowledge, mentor students, and translate difficult topics into accessible learning pathways.",
+    "intro": "I have been teaching since 2021 at KPI, combining academic instruction with active industry practice in software and data engineering.",
     "highlights": [
-      { "label": "Teaching since", "value": "2017" },
-      { "label": "Student groups", "value": "Undergraduate / Graduate" },
-      { "label": "Formats", "value": "Lectures, labs, seminars" }
+      { "label": "Teaching since", "value": "2021" },
+      { "label": "Institutes", "value": "Faculty of Mathematics, KPI • FICT KPI" },
+      { "label": "Core courses", "value": "Web Development • Project Management • App Deployment" }
     ],
     "disciplines": [
-      { "name": "Data Analysis", "level": "Bachelor", "years": "4 years" },
-      { "name": "Machine Learning", "level": "Master", "years": "3 years" },
-      { "name": "Programming", "level": "Bachelor", "years": "6 years" }
+      { "name": "Web Development", "level": "Faculty of Mathematics, KPI", "years": "Since 2021" },
+      { "name": "Project Management", "level": "FICT KPI", "years": "Since 2023" },
+      { "name": "Technology of Developing Applications", "level": "FICT KPI", "years": "Since 2023" }
     ],
     "milestones": [
       {
-        "period": "2017",
-        "title": "First teaching appointment",
-        "organization": "University Department",
-        "description": "Began leading practical classes and supporting curriculum delivery."
+        "period": "2021",
+        "title": "Started teaching at the Faculty of Mathematics",
+        "organization": "KPI, Faculty of Mathematics",
+        "description": "Began teaching Web Development, bringing practical engineering experience into the classroom."
       },
       {
-        "period": "2020",
-        "title": "Developed new course materials",
-        "organization": "Faculty Program",
-        "description": "Created updated assignments, assessment rubrics, and project-based learning blocks."
+        "period": "2023",
+        "title": "Expanded teaching to FICT KPI",
+        "organization": "Faculty of Informatics and Computer Science, KPI",
+        "description": "Started teaching Project Management and Technology of Developing Applications."
       },
       {
-        "period": "2025",
-        "title": "Expanded mentorship activity",
-        "organization": "Academic Program",
-        "description": "Supervised capstone projects and coached students on research writing and presentations."
+        "period": "2022 - 2026",
+        "title": "Integrated research and teaching practice",
+        "organization": "KPI academic and research work",
+        "description": "Combined PhD research, industry delivery experience, and classroom work to teach current technologies through applied examples."
       }
     ]
   },
   "professional": {
-    "intro": "My professional work complements my academic path through product delivery, team collaboration, and applied problem-solving.",
+    "intro": "My professional path spans backend engineering, integrations, data processing, analytics pipelines, automation, and delivery support across product and client-facing environments.",
     "experiences": [
       {
-        "period": "2022 - Present",
-        "company": "Company Name",
-        "position": "Senior Specialist / Engineer",
-        "summary": "Led implementation of data-driven solutions and coordinated delivery across stakeholders.",
+        "period": "Apr 2025 - Apr 2026",
+        "company": "Feedzai",
+        "position": "Data Engineer",
+        "summary": "Worked on client-facing data engineering and delivery tasks following the acquisition of Demyst.",
         "achievements": [
-          "Built internal tools for faster reporting",
-          "Improved process quality and documentation",
-          "Supported cross-functional decision making"
+          "Developed and supported data pipelines for client delivery and analytics workflows",
+          "Created and maintained jobs for structured and semi-structured data",
+          "Worked with AWS, Airflow, Spark, SQL, and Jupyter-based workflows",
+          "Performed data analysis, validation, issue investigation, and reporting",
+          "Supported production troubleshooting and delivery quality monitoring"
         ]
       },
       {
-        "period": "2019 - 2022",
-        "company": "Previous Company",
-        "position": "Analyst / Developer",
-        "summary": "Worked on product features, data workflows, and operational improvements.",
+        "period": "Sep 2022 - Apr 2025",
+        "company": "Demyst",
+        "position": "Software Engineer",
+        "summary": "Worked across backend, frontend, connectors, and client delivery in a data-intensive environment focused on aggregating information from multiple sources.",
         "achievements": [
-          "Automated repetitive tasks",
-          "Delivered dashboards for leadership",
-          "Collaborated with technical and business teams"
+          "Developed custom connectors and integration logic for external systems and APIs",
+          "Supported backend services and platform-related features",
+          "Contributed to frontend updates and new platform development",
+          "Handled data processing, issue analysis, reporting, and delivery tracking",
+          "Helped onboard and mentor new team members"
+        ]
+      },
+      {
+        "period": "May 2021 - Sep 2021",
+        "company": "mediastream.ag",
+        "position": "Software Engineer",
+        "summary": "Worked on integrating new products into an existing production platform.",
+        "achievements": [
+          "Supported existing platform functionality",
+          "Developed adapters and integration components for new customers",
+          "Participated in product integration and platform enhancement tasks"
+        ]
+      },
+      {
+        "period": "Mar 2021 - Sep 2022",
+        "company": "Realtybundles Ltd",
+        "position": "Software Engineer / Automation Tester / Data Engineer",
+        "summary": "Worked on software development, automation, testing, and data-related tasks across multiple workflows.",
+        "achievements": [
+          "Built automation tools and bots for testing platform behavior",
+          "Simulated manual user actions and validated platform flows",
+          "Worked on data collection and processing tasks",
+          "Supported cloud-based and data-oriented workflows"
+        ]
+      },
+      {
+        "period": "Jun 2016 - Sep 2022",
+        "company": "CyberSystem Group",
+        "position": "Software Engineer / Data Engineer / Team Lead",
+        "summary": "Worked on e-commerce systems, ERP/CMS solutions, and knowledge-oriented platforms across frontend, backend, databases, and integrations.",
+        "achievements": [
+          "Developed frontend and backend functionality for web-based systems",
+          "Built and supported e-commerce platforms with custom business logic",
+          "Contributed to ERP and CMS modules and internal systems",
+          "Worked with databases, APIs, testing, bug fixing, and support",
+          "Built selected parts of systems from scratch and shared technical knowledge"
         ]
       }
     ],
     "skills": [
       {
-        "category": "Technical",
-        "items": ["Python", "TypeScript", "SQL", "Data Visualization", "Git"]
+        "category": "Languages",
+        "items": ["Python", "Scala", "Java", "SQL", "JavaScript", "TypeScript"]
       },
       {
-        "category": "Professional",
-        "items": ["Project coordination", "Mentoring", "Research communication", "Documentation"]
+        "category": "Data Engineering & Analytics",
+        "items": ["Airflow", "Databricks", "Spark", "ETL/ELT", "Data pipelines", "Jupyter", "Reporting", "Parquet"]
+      },
+      {
+        "category": "Cloud & DevOps",
+        "items": ["AWS", "Docker", "Jenkins", "GitHub Actions", "Git"]
+      },
+      {
+        "category": "Backend & Integration",
+        "items": ["Spring", "Node.js", "Express", "REST API integrations", "Connectors", "Authentication flows"]
+      },
+      {
+        "category": "Frontend",
+        "items": ["React", "Angular", "HTML", "CSS", "SCSS", "Bootstrap", "Angular Material"]
+      },
+      {
+        "category": "Databases & Tools",
+        "items": ["PostgreSQL", "MySQL", "MongoDB", "Postman", "IntelliJ IDEA", "PyCharm", "WebStorm", "VSCode", "Cursor", "Eclipse", "Maven"]
       }
     ]
   },
   "personal": {
-    "intro": "Beyond formal roles, I value hobbies and interests that keep me balanced, creative, and connected to new ideas.",
+    "intro": "Outside direct delivery work, I enjoy building practical tools, exploring research problems, and combining engineering curiosity with long-term academic goals.",
     "hobbies": [
       {
-        "title": "Reading",
-        "description": "I enjoy scientific literature, long-form essays, and books that connect technology with society."
+        "title": "Research and writing",
+        "description": "I like turning technical ideas into structured papers, experiments, and dissertation-level results."
       },
       {
-        "title": "Travel",
-        "description": "Exploring new places helps me recharge and broaden my cultural perspective."
+        "title": "Engineering side projects",
+        "description": "I enjoy creating small systems, integrations, and experiments that sharpen both product thinking and technical depth."
       },
       {
-        "title": "Creative projects",
-        "description": "I like building side projects, visual experiments, and practical tools."
+        "title": "Continuous learning",
+        "description": "I regularly deepen my skills across data engineering, software architecture, analytics, and modern development tooling."
       }
     ],
     "metrics": [
-      { "area": "Research", "score": 88 },
-      { "area": "Teaching", "score": 84 },
-      { "area": "Engineering", "score": 80 },
-      { "area": "Mentoring", "score": 78 },
-      { "area": "Creativity", "score": 74 }
+      { "area": "Data Engineering", "score": 90 },
+      { "area": "Software Engineering", "score": 88 },
+      { "area": "Research", "score": 86 },
+      { "area": "Mentoring", "score": 77 },
+      { "area": "Delivery", "score": 85 }
     ]
   }
 }

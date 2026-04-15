@@ -103,8 +103,8 @@ export function AppLayout({ locale, onLocaleChange }: AppLayoutProps) {
               EN
             </Button>
             <Button
-              variant={locale === "uk" ? "contained" : "outlined"}
-              onClick={() => onLocaleChange("uk")}
+              variant={locale === "ua" ? "contained" : "outlined"}
+              onClick={() => onLocaleChange("ua")}
             >
               UA
             </Button>

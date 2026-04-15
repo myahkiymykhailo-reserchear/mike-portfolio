@@ -54,20 +54,48 @@ export function ProfessionalPage({ content }: ProfessionalPageProps) {
           </SectionCard>
         </Grid>
         <Grid size={{ xs: 12, lg: 4 }}>
-          <SectionCard title={t("common.skills")}>
-            <Stack spacing={2}>
-              {content.professional.skills.map((group) => (
-                <Stack key={group.category} spacing={1}>
-                  <Typography variant="h6">{group.category}</Typography>
-                  <Stack direction="row" spacing={1} flexWrap="wrap" useFlexGap>
-                    {group.items.map((item) => (
-                      <Chip key={item} label={item} color="secondary" variant="outlined" />
-                    ))}
+          <Stack spacing={3}>
+            <SectionCard title={t("common.education")}>
+              <Stack spacing={1.5}>
+                {content.profile.degrees.map((degree) => (
+                  <Stack key={`${degree.title}-${degree.period}`} spacing={0.25}>
+                    <Typography variant="h6">{degree.title}</Typography>
+                    <Typography color="text.secondary">{degree.institution}</Typography>
+                    <Typography color="text.secondary">
+                      {degree.period}
+                      {degree.field ? ` • ${degree.field}` : ""}
+                    </Typography>
                   </Stack>
-                </Stack>
-              ))}
-            </Stack>
-          </SectionCard>
+                ))}
+              </Stack>
+            </SectionCard>
+            <SectionCard title={t("common.languages")}>
+              <Stack direction="row" spacing={1} flexWrap="wrap" useFlexGap>
+                {content.profile.languages.map((item) => (
+                  <Chip
+                    key={item.language}
+                    label={`${item.language} • ${item.level}`}
+                    color="secondary"
+                    variant="outlined"
+                  />
+                ))}
+              </Stack>
+            </SectionCard>
+            <SectionCard title={t("common.skills")}>
+              <Stack spacing={2}>
+                {content.professional.skills.map((group) => (
+                  <Stack key={group.category} spacing={1}>
+                    <Typography variant="h6">{group.category}</Typography>
+                    <Stack direction="row" spacing={1} flexWrap="wrap" useFlexGap>
+                      {group.items.map((item) => (
+                        <Chip key={item} label={item} color="secondary" variant="outlined" />
+                      ))}
+                    </Stack>
+                  </Stack>
+                ))}
+              </Stack>
+            </SectionCard>
+          </Stack>
         </Grid>
       </Grid>
     </Stack>

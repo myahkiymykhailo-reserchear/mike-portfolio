@@ -18,6 +18,11 @@
     "disciplines": "Дисципліни",
     "experience": "Досвід",
     "skills": "Навички",
+    "education": "Освіта",
+    "degrees": "Ступені",
+    "languages": "Мови",
+    "dissertation": "Дисертація",
+    "technologies": "Технології",
     "contact": "Контакти",
     "researchAreas": "Напрями досліджень",
     "interestMap": "Мапа інтересів",
@@ -35,7 +40,8 @@
   },
   "science": {
     "orcid": "ORCID",
-    "selectedWork": "Обрані роботи"
+    "selectedWork": "Обрані роботи",
+    "phdTrack": "PhD Трек"
   },
   "teaching": {
     "teachingStory": "Історія викладання"

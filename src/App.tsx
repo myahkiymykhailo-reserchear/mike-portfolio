@@ -46,7 +46,7 @@ function App() {
   const [locale, setLocale] = useState<Locale>("en");
   const [contentMap, setContentMap] = useState<Record<Locale, SiteContent>>({
     en: getStoredContent("en"),
-    uk: getStoredContent("uk"),
+    ua: getStoredContent("ua"),
   });
 
   useEffect(() => {
@@ -71,7 +71,12 @@ function App() {
     <I18nextProvider i18n={i18n}>
       <ThemeProvider theme={theme}>
         <CssBaseline />
-        <HashRouter>
+        <HashRouter
+          future={{
+            v7_startTransition: true,
+            v7_relativeSplatPath: true,
+          }}
+        >
           <Suspense fallback={fallback}>
             <Routes>
               <Route
@@ -91,6 +96,7 @@ function App() {
                   path="/admin"
                   element={
                     <AdminPage
+                      key={locale}
                       locale={locale}
                       content={activeContent}
                       onContentChange={handleContentChange}
