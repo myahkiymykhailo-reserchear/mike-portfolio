@@ -59,6 +59,7 @@ function App() {
       [targetLocale]: nextContent,
     }));
   };
+  handleContentChange
 
   const activeContent = contentMap[locale];
   const fallback = (
