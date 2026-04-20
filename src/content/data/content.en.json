@@ -1,97 +1,126 @@
 {
   "hero": {
     "greeting": "Hello, I am",
-    "title": "Mykhailo Miahkyi",
-    "subtitle": "Data Engineer, Software Engineer, researcher, and academic practitioner",
-    "description": "I build reliable data and software systems, work across backend and analytics pipelines, and connect industry practice with research in information technologies and cryptocurrency forecasting.",
+    "title": "Mykhailo Yuriiovych Miahkyi",
+    "subtitle": "Data Engineer, Software Engineer, Researcher, and Academic Practitioner",
+    "description": "I build high-quality software and information systems. I work across both frontend and backend, as well as analytics data pipelines, and connect industry practice with research in information technologies and cryptocurrency exchange-rate forecasting.",
     "stats": [
-      { "label": "Years in engineering", "value": "9+" },
-      { "label": "Research publications", "value": "15" },
-      { "label": "Degrees completed", "value": "2" }
+      {
+        "label": "Years in engineering",
+        "value": "9+"
+      },
+      {
+        "label": "Research publications",
+        "value": "15"
+      },
+      {
+        "label": "Degrees completed",
+        "value": "2"
+      }
     ]
   },
   "profile": {
-    "fullName": "Mykhailo Miahkyi",
-    "role": "Data Engineer / Software Engineer",
+    "fullName": "Mykhailo Yuriiovych Miahkyi",
+    "role": "Data Engineer / Software Engineer / Lecturer",
     "location": "Kyiv, Ukraine",
-    "email": "mishamyagkiy3@gmail.com",
-    "telegram": "@Shark",
-    "summary": "Software Engineer and Data Engineer with more than 9 years of experience across backend development, data processing, integrations, automation, analytics-oriented pipelines, production support, and client delivery. I work comfortably across engineering, data, and client-facing tasks, with hands-on experience in Python, Scala, Java, SQL, React, AWS, Databricks, Airflow, and Docker.",
+    "email": "myahkiymykhailo@gmail.com",
+    "summary": "Software Engineer and Data Engineer with more than 9 years of experience in backend and web development, data processing, integrations, automation, analytical data pipelines, product support, and client-facing work. I work comfortably at the intersection of engineering, data, and client needs, with hands-on experience in Python, Scala, Java, Node.js, Go, SQL, JavaScript, TypeScript, React, Angular, Vue, AWS, Databricks, Airflow, Docker, and Kubernetes.",
     "links": [
-      { "label": "Email", "href": "mailto:mishamyagkiy3@gmail.com" },
-      { "label": "LinkedIn", "href": "https://www.linkedin.com/in/mykhailo-miahkyi-8140a614a" },
-      { "label": "Telegram", "href": "https://t.me/Shark" },
-      { "label": "ORCID", "href": "https://orcid.org/0000-0002-8038-8839" },
-      { "label": "Google Scholar", "href": "https://scholar.google.com/citations?user=ncPPgD4AAAAJ&hl=en/" }
+      {
+        "label": "Email",
+        "href": "mailto:myahkiymykhailo@gmail.com"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/mykhailo-miahkyi-8140a614a"
+      },
+      {
+        "label": "ORCID",
+        "href": "https://orcid.org/0000-0002-8038-8839"
+      },
+      {
+        "label": "Google Scholar",
+        "href": "https://scholar.google.com/citations?user=ncPPgD4AAAAJ&hl=en/"
+      }
     ],
     "degrees": [
       {
         "title": "Master's Degree",
-        "institution": "NTUU \"Igor Sikorsky Kyiv Polytechnic Institute\"",
+        "institution": "National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\"",
         "period": "2020 - 2022",
         "field": "Information Systems and Technologies"
       },
       {
         "title": "Bachelor's Degree",
-        "institution": "NTUU \"Igor Sikorsky Kyiv Polytechnic Institute\"",
+        "institution": "National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\"",
         "period": "2016 - 2020",
-        "field": "Information Systems and Technologies"
+        "field": "Computer Science and Information Technology"
       }
     ],
     "languages": [
-      { "language": "English", "level": "Intermediate / Upper-Intermediate" },
-      { "language": "Ukrainian", "level": "Native" }
+      {
+        "language": "English",
+        "level": "Intermediate / Upper-Intermediate"
+      },
+      {
+        "language": "German",
+        "level": "Pre-Intermediate"
+      },
+      {
+        "language": "Ukrainian",
+        "level": "Native"
+      }
     ]
   },
   "science": {
-    "intro": "My research focuses on information technologies for analyzing the influence of social network publications on cryptocurrency rates, combining forecasting models, social signals, investor behavior, and expert-driven analysis.",
+    "intro": "My research focuses on information technologies for analyzing the influence of social media posts on cryptocurrency exchange rates, combining forecasting models, social signals, investor behavior, and expert-influence analysis.",
     "orcid": "0000-0002-8038-8839",
-    "phdNote": "PhD graduation is planned for 2026.",
+    "phdNote": "PhD completion and dissertation defense are planned for 2026.",
     "dissertation": {
-      "title": "Information technology for determining the influence of social network posts on cryptocurrency exchange rates",
+      "title": "Information technology for determining the influence of social media posts on cryptocurrency exchange rates",
       "specialtyCode": "126",
       "specialtyName": "Information Systems and Technologies",
       "branchCode": "12",
       "branchName": "Information Technologies",
-      "status": "PhD dissertation in final stage, expected graduation in 2026"
+      "status": "PhD dissertation in its final stage, with completion expected in 2026"
     },
     "researchAreas": [
-      "Cryptocurrency exchange rate forecasting",
-      "Analysis of expert influence in social networks",
+      "Cryptocurrency exchange-rate forecasting",
+      "Analysis of expert influence in social media",
       "Multi-agent and information systems",
       "Investor behavior and dynamic modeling",
-      "Statistical processing for forecast quality control"
+      "Statistical data processing for forecast quality control"
     ],
     "milestones": [
       {
         "period": "2022",
-        "title": "Started the main dissertation publication track",
+        "title": "Start of the main dissertation publication track",
         "organization": "KPI research program",
-        "description": "Published early results on analyzing publications for cryptocurrency rate forecasting and formalized the first system approach."
+        "description": "Published the first results on publication analysis for cryptocurrency exchange-rate forecasting and formalized the initial system approach."
       },
       {
         "period": "2023",
-        "title": "Extended the forecasting model with expert ranking",
-        "organization": "Journal and conference publications",
-        "description": "Developed and published methods for cryptocurrency rate forecasting based on ranked expert opinions and social-network signals."
+        "title": "Expansion of the forecasting model through expert ranking",
+        "organization": "Academic journals and conference proceedings",
+        "description": "Developed and published methods for forecasting cryptocurrency exchange rates based on ranked expert opinions and signals from social media."
       },
       {
         "period": "2024",
-        "title": "Expanded the research to communities and investor behavior",
+        "title": "Expansion of the research to communities and investor behavior",
         "organization": "Peer-reviewed publications",
-        "description": "Published studies on community influence in social networks and a dynamic model of currency exchange based on investor behavior."
+        "description": "Published studies on the influence of social-media communities and a dynamic model of currency exchange based on investor behavior."
       },
       {
         "period": "2025",
-        "title": "Finalized dissertation-oriented algorithmic contributions",
+        "title": "Completion of the dissertation's algorithmic results",
         "organization": "Adaptive Systems of Automatic Control and conference proceedings",
-        "description": "Added work on ranked expert groups, time interval analysis, and mathematical models for assessing expert qualities."
+        "description": "Added results on ranked groups of experts, time-interval analysis, and mathematical models for assessing expert qualities."
       },
       {
         "period": "2026",
-        "title": "Planned PhD graduation",
-        "organization": "NTUU \"Igor Sikorsky Kyiv Polytechnic Institute\"",
-        "description": "Preparing the final dissertation defense in Information Systems and Technologies."
+        "title": "Planned PhD completion",
+        "organization": "National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\"",
+        "description": "Preparation for the final dissertation defense in Information Systems and Technologies."
       }
     ],
     "publications": [
@@ -188,65 +217,96 @@
     ]
   },
   "teaching": {
-    "intro": "I have been teaching since 2021 at KPI, combining academic instruction with active industry practice in software and data engineering.",
+    "intro": "I have been teaching since 2022 at the National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\", combining academic teaching with active industry practice in software engineering and data engineering.",
     "highlights": [
-      { "label": "Teaching since", "value": "2021" },
-      { "label": "Institutes", "value": "Faculty of Mathematics, KPI • FICT KPI" },
-      { "label": "Core courses", "value": "Web Development • Project Management • App Deployment" }
+      {
+        "label": "Teaching since",
+        "value": "2022"
+      },
+      {
+        "label": "Faculties",
+        "value": "Faculty of Applied Mathematics • Faculty of Informatics and Computer Engineering"
+      },
+      {
+        "label": "Core courses",
+        "value": "Web Application Development • Project Management • Software Development Technology • Text Data Processing and Analysis in Python • Methods and Tools of Product Analytics"
+      }
     ],
     "disciplines": [
-      { "name": "Web Development", "level": "Faculty of Mathematics, KPI", "years": "Since 2021" },
-      { "name": "Project Management", "level": "FICT KPI", "years": "Since 2023" },
-      { "name": "Technology of Developing Applications", "level": "FICT KPI", "years": "Since 2023" }
+      {
+        "name": "Web Application Development",
+        "level": "Faculty of Applied Mathematics",
+        "years": "2022 - 2023"
+      },
+      {
+        "name": "Project Management",
+        "level": "Faculty of Informatics and Computer Engineering",
+        "years": "2023 - 2026"
+      },
+      {
+        "name": "Software Development Technology",
+        "level": "Faculty of Informatics and Computer Engineering",
+        "years": "2023 - 2026"
+      },
+      {
+        "name": "Text Data Processing and Analysis in Python",
+        "level": "Faculty of Informatics and Computer Engineering",
+        "years": "2023 - 2026"
+      },
+      {
+        "name": "Methods and Tools of Product Analytics",
+        "level": "Faculty of Informatics and Computer Engineering",
+        "years": "2025 - 2026"
+      }
     ],
     "milestones": [
       {
-        "period": "2021",
-        "title": "Started teaching at the Faculty of Mathematics",
-        "organization": "KPI, Faculty of Mathematics",
-        "description": "Began teaching Web Development, bringing practical engineering experience into the classroom."
+        "period": "2022 - 2023",
+        "title": "Start of teaching at the Faculty of Applied Mathematics",
+        "organization": "National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\", Faculty of Applied Mathematics",
+        "description": "Started teaching web development, combining practical engineering experience with classroom instruction."
       },
       {
-        "period": "2023",
-        "title": "Expanded teaching to FICT KPI",
-        "organization": "Faculty of Informatics and Computer Science, KPI",
-        "description": "Started teaching Project Management and Technology of Developing Applications."
+        "period": "2023 - 2026",
+        "title": "Expansion of teaching at the Faculty of Informatics and Computer Engineering",
+        "organization": "National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\", Faculty of Informatics and Computer Engineering",
+        "description": "Started teaching the courses \"Project Management\", \"Software Development Technology\", \"Text Data Processing and Analysis in Python\", and \"Methods and Tools of Product Analytics\"."
       },
       {
         "period": "2022 - 2026",
-        "title": "Integrated research and teaching practice",
-        "organization": "KPI academic and research work",
-        "description": "Combined PhD research, industry delivery experience, and classroom work to teach current technologies through applied examples."
+        "title": "Combining research and teaching",
+        "organization": "Academic and research activity at the National Technical University of Ukraine \"Igor Sikorsky Kyiv Polytechnic Institute\"",
+        "description": "I combine PhD research, industry practice, and teaching to fill courses with relevant examples and modern technologies."
       }
     ]
   },
   "professional": {
-    "intro": "My professional path spans backend engineering, integrations, data processing, analytics pipelines, automation, and delivery support across product and client-facing environments.",
+    "intro": "My professional path spans backend development, web development, integrations, data processing, analytical pipelines, automation, and delivery support across product and client-facing environments.",
     "experiences": [
       {
         "period": "Apr 2025 - Apr 2026",
         "company": "Feedzai",
         "position": "Data Engineer",
-        "summary": "Worked on client-facing data engineering and delivery tasks following the acquisition of Demyst.",
+        "summary": "Worked on client-facing data-engineering tasks and solution delivery following the acquisition of Demyst.",
         "achievements": [
-          "Developed and supported data pipelines for client delivery and analytics workflows",
-          "Created and maintained jobs for structured and semi-structured data",
+          "Developed and maintained data pipelines for client delivery and analytical processes",
+          "Created and supported jobs for structured and semi-structured data processing",
           "Worked with AWS, Airflow, Spark, SQL, and Jupyter-based workflows",
-          "Performed data analysis, validation, issue investigation, and reporting",
-          "Supported production troubleshooting and delivery quality monitoring"
+          "Performed data analysis, validation, incident investigation, and reporting",
+          "Supported troubleshooting in production and monitored delivery quality"
         ]
       },
       {
         "period": "Sep 2022 - Apr 2025",
         "company": "Demyst",
         "position": "Software Engineer",
-        "summary": "Worked across backend, frontend, connectors, and client delivery in a data-intensive environment focused on aggregating information from multiple sources.",
+        "summary": "Worked across backend and frontend, connectors, and client delivery in a data-intensive environment focused on aggregating information from multiple sources.",
         "achievements": [
           "Developed custom connectors and integration logic for external systems and APIs",
-          "Supported backend services and platform-related features",
+          "Supported backend services and platform capabilities",
           "Contributed to frontend updates and new platform development",
           "Handled data processing, issue analysis, reporting, and delivery tracking",
-          "Helped onboard and mentor new team members"
+          "Helped with onboarding and mentoring new colleagues"
         ]
       },
       {
@@ -256,19 +316,19 @@
         "summary": "Worked on integrating new products into an existing production platform.",
         "achievements": [
           "Supported existing platform functionality",
-          "Developed adapters and integration components for new customers",
+          "Developed adapters and integration components for new clients",
           "Participated in product integration and platform enhancement tasks"
         ]
       },
       {
         "period": "Mar 2021 - Sep 2022",
         "company": "Realtybundles Ltd",
-        "position": "Software Engineer / Automation Tester / Data Engineer",
+        "position": "Software Engineer / Automation Test Engineer / Data Engineer",
         "summary": "Worked on software development, automation, testing, and data-related tasks across multiple workflows.",
         "achievements": [
           "Built automation tools and bots for testing platform behavior",
-          "Simulated manual user actions and validated platform flows",
-          "Worked on data collection and processing tasks",
+          "Simulated manual user actions and validated platform workflows",
+          "Worked on data collection and processing",
           "Supported cloud-based and data-oriented workflows"
         ]
       },
@@ -278,63 +338,127 @@
         "position": "Software Engineer / Data Engineer / Team Lead",
         "summary": "Worked on e-commerce systems, ERP/CMS solutions, and knowledge-oriented platforms across frontend, backend, databases, and integrations.",
         "achievements": [
-          "Developed frontend and backend functionality for web-based systems",
+          "Developed frontend and backend functionality for web systems",
           "Built and supported e-commerce platforms with custom business logic",
-          "Contributed to ERP and CMS modules and internal systems",
+          "Developed ERP and CMS modules and internal systems",
           "Worked with databases, APIs, testing, bug fixing, and support",
-          "Built selected parts of systems from scratch and shared technical knowledge"
+          "Built selected system components from scratch and shared technical knowledge"
         ]
       }
     ],
     "skills": [
       {
-        "category": "Languages",
-        "items": ["Python", "Scala", "Java", "SQL", "JavaScript", "TypeScript"]
+        "category": "Programming Languages",
+        "items": [
+          "Python",
+          "Scala",
+          "Java",
+          "SQL",
+          "JavaScript",
+          "TypeScript"
+        ]
       },
       {
-        "category": "Data Engineering & Analytics",
-        "items": ["Airflow", "Databricks", "Spark", "ETL/ELT", "Data pipelines", "Jupyter", "Reporting", "Parquet"]
+        "category": "Data Engineering and Analytics",
+        "items": [
+          "Airflow",
+          "Databricks",
+          "Spark",
+          "ETL/ELT",
+          "Data Pipelines",
+          "Jupyter",
+          "Reporting",
+          "Parquet"
+        ]
       },
       {
-        "category": "Cloud & DevOps",
-        "items": ["AWS", "Docker", "Jenkins", "GitHub Actions", "Git"]
+        "category": "Cloud and DevOps",
+        "items": [
+          "AWS",
+          "Docker",
+          "Jenkins",
+          "GitHub Actions",
+          "Git"
+        ]
       },
       {
-        "category": "Backend & Integration",
-        "items": ["Spring", "Node.js", "Express", "REST API integrations", "Connectors", "Authentication flows"]
+        "category": "Backend and Integrations",
+        "items": [
+          "Spring",
+          "Node.js",
+          "Express",
+          "REST API Integrations",
+          "Connectors",
+          "Authentication Flows"
+        ]
       },
       {
         "category": "Frontend",
-        "items": ["React", "Angular", "HTML", "CSS", "SCSS", "Bootstrap", "Angular Material"]
+        "items": [
+          "React",
+          "Angular",
+          "HTML",
+          "CSS",
+          "SCSS",
+          "Bootstrap",
+          "Angular Material"
+        ]
       },
       {
-        "category": "Databases & Tools",
-        "items": ["PostgreSQL", "MySQL", "MongoDB", "Postman", "IntelliJ IDEA", "PyCharm", "WebStorm", "VSCode", "Cursor", "Eclipse", "Maven"]
+        "category": "Databases and Tools",
+        "items": [
+          "PostgreSQL",
+          "MySQL",
+          "MongoDB",
+          "Postman",
+          "IntelliJ IDEA",
+          "PyCharm",
+          "WebStorm",
+          "VSCode",
+          "Cursor",
+          "Eclipse",
+          "Maven"
+        ]
       }
     ]
   },
   "personal": {
-    "intro": "Outside direct delivery work, I enjoy building practical tools, exploring research problems, and combining engineering curiosity with long-term academic goals.",
+    "intro": "Outside my core solution-delivery work, I enjoy building practical tools, exploring complex problems, and combining engineering curiosity with long-term academic goals.",
     "hobbies": [
       {
-        "title": "Research and writing",
-        "description": "I like turning technical ideas into structured papers, experiments, and dissertation-level results."
+        "title": "Research and academic writing",
+        "description": "I enjoy turning technical ideas into structured papers, experiments, and dissertation-level results."
       },
       {
-        "title": "Engineering side projects",
-        "description": "I enjoy creating small systems, integrations, and experiments that sharpen both product thinking and technical depth."
+        "title": "Personal engineering projects",
+        "description": "I enjoy creating small systems, integrations, and experiments that strengthen both product thinking and technical depth."
       },
       {
         "title": "Continuous learning",
-        "description": "I regularly deepen my skills across data engineering, software architecture, analytics, and modern development tooling."
+        "description": "I regularly deepen my skills in data engineering, software architecture, analytics, and modern development tools."
       }
     ],
     "metrics": [
-      { "area": "Data Engineering", "score": 90 },
-      { "area": "Software Engineering", "score": 88 },
-      { "area": "Research", "score": 86 },
-      { "area": "Mentoring", "score": 77 },
-      { "area": "Delivery", "score": 85 }
+      {
+        "area": "Data Engineering",
+        "score": 90
+      },
+      {
+        "area": "Software Engineering",
+        "score": 88
+      },
+      {
+        "area": "Research",
+        "score": 86
+      },
+      {
+        "area": "Mentoring",
+        "score": 77
+      },
+      {
+        "area": "Solution Delivery",
+        "score": 85
+      }
     ]
   }
 }

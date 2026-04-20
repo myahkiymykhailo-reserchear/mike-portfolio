@@ -16,6 +16,19 @@ interface PersonalPageProps {
 export function PersonalPage({ content }: PersonalPageProps) {
   const { t } = useTranslation();
 
+  const truncateAtWord = (text: string, max = 12) => {
+    if (text.length <= max) return text;
+
+    const sliced = text.slice(0, max + 1);
+    const lastSpace = sliced.lastIndexOf(" ");
+
+    if (lastSpace > 3) {
+      return `${sliced.slice(0, lastSpace)}…`;
+    }
+
+    return `${text.slice(0, max).trimEnd()}…`;
+  };
+
   return (
     <Stack spacing={4}>
       <PageIntro
@@ -51,7 +64,7 @@ export function PersonalPage({ content }: PersonalPageProps) {
             <ResponsiveContainer width="100%" height={280}>
               <RadarChart data={content.personal.metrics}>
                 <PolarGrid />
-                <PolarAngleAxis dataKey="area" />
+                <PolarAngleAxis dataKey="area" tickFormatter={(value) => truncateAtWord(value, 12)} />
                 <Radar
                   dataKey="score"
                   stroke="#0f4c5c"
