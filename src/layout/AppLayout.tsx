@@ -1,7 +1,7 @@
 import MenuBookRoundedIcon from "@mui/icons-material/MenuBookRounded";
 import PersonRoundedIcon from "@mui/icons-material/PersonRounded";
 import SchoolRoundedIcon from "@mui/icons-material/SchoolRounded";
-import SettingsRoundedIcon from "@mui/icons-material/SettingsRounded";
+// import SettingsRoundedIcon from "@mui/icons-material/SettingsRounded";
 import WorkRoundedIcon from "@mui/icons-material/WorkRounded";
 import {
   AppBar,
@@ -46,11 +46,11 @@ export function AppLayout({ locale, onLocaleChange }: AppLayoutProps) {
       label: t("nav.personal"),
       icon: <PersonRoundedIcon fontSize="small" />,
     },
-    {
-      to: "/admin",
-      label: t("nav.admin"),
-      icon: <SettingsRoundedIcon fontSize="small" />,
-    },
+    // {
+    //   to: "/admin",
+    //   label: t("nav.admin"),
+    //   icon: <SettingsRoundedIcon fontSize="small" />,
+    // },
   ];
 
   return (

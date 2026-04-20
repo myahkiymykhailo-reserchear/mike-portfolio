@@ -91,13 +91,10 @@ export function HomePage({ content }: HomePageProps) {
       </SectionCard>
 
       <Grid container spacing={3}>
-        <Grid size={{ xs: 12, md: 7 }}>
+        <Grid size={{ xs: 12, md: 12 }}>
           <SectionCard title={t("common.overview")} description={content.profile.role}>
             <Stack spacing={2}>
               <Typography>{content.profile.summary}</Typography>
-              <Typography color="text.secondary">
-                {content.profile.location} • {content.profile.email} • {content.profile.telegram}
-              </Typography>
               <Stack direction="row" spacing={1} flexWrap="wrap" useFlexGap>
                 {content.profile.degrees.map((degree) => (
                   <Chip
@@ -110,7 +107,7 @@ export function HomePage({ content }: HomePageProps) {
             </Stack>
           </SectionCard>
         </Grid>
-        <Grid size={{ xs: 12, md: 5 }}>
+        {/* <Grid size={{ xs: 12, md: 5 }}>
           <SectionCard title={t("home.spotlight")} description={t("home.adminNote")}>
             <Stack spacing={1.5}>
               <Typography variant="body2" color="text.secondary">
@@ -127,7 +124,7 @@ export function HomePage({ content }: HomePageProps) {
               </Button>
             </Stack>
           </SectionCard>
-        </Grid>
+        </Grid> */}
       </Grid>
 
       <SectionCard title={t("home.pagesTitle")} description={t("home.pagesDescription")}>

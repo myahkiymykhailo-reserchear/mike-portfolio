@@ -45,7 +45,7 @@ export function TeachingPage({ content }: TeachingPageProps) {
               <TableHead>
                 <TableRow>
                   <TableCell>Name</TableCell>
-                  <TableCell>Level</TableCell>
+                  <TableCell>Faculty</TableCell>
                   <TableCell>Duration</TableCell>
                 </TableRow>
               </TableHead>

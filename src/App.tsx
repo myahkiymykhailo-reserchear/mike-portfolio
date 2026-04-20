@@ -38,9 +38,9 @@ const PersonalPage = lazy(() =>
     default: module.PersonalPage,
   })),
 );
-const AdminPage = lazy(() =>
-  import("./pages/AdminPage").then((module) => ({ default: module.AdminPage })),
-);
+// const AdminPage = lazy(() =>
+//   import("./pages/AdminPage").then((module) => ({ default: module.AdminPage })),
+// );
 
 function App() {
   const [locale, setLocale] = useState<Locale>("en");
@@ -92,7 +92,7 @@ function App() {
                   element={<ProfessionalPage content={activeContent} />}
                 />
                 <Route path="/personal" element={<PersonalPage content={activeContent} />} />
-                <Route
+                {/* <Route
                   path="/admin"
                   element={
                     <AdminPage
@@ -102,7 +102,7 @@ function App() {
                       onContentChange={handleContentChange}
                     />
                   }
-                />
+                /> */}
               </Route>
             </Routes>
           </Suspense>

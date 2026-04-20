@@ -44,7 +44,6 @@ export interface ProfileContent {
   role: string;
   location: string;
   email: string;
-  telegram: string;
   summary: string;
   links: ContactLink[];
   degrees: Degree[];
