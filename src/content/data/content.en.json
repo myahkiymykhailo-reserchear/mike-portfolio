@@ -1,7 +1,7 @@
 {
   "hero": {
     "greeting": "Hello, I am",
-    "title": "Mykhailo Yuriiovych Miahkyi",
+    "title": "Mykhailo Miahkyi",
     "subtitle": "Data Engineer, Software Engineer, Researcher, and Academic Practitioner",
     "description": "I build high-quality software and information systems. I work across both frontend and backend, as well as analytics data pipelines, and connect industry practice with research in information technologies and cryptocurrency exchange-rate forecasting.",
     "stats": [
@@ -20,7 +20,7 @@
     ]
   },
   "profile": {
-    "fullName": "Mykhailo Yuriiovych Miahkyi",
+    "fullName": "Mykhailo Miahkyi",
     "role": "Data Engineer / Software Engineer / Lecturer",
     "location": "Kyiv, Ukraine",
     "email": "myahkiymykhailo@gmail.com",
